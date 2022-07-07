@@ -1,0 +1,14 @@
+Modules:
+-UI
+-Shortest Path Algorithm
+-Invoke Google Map
+-Parks Database 
+
+
+Milestones
+-UI Skeleton
+-Basic UI screen
+-Single addresses no parking
+-Multiple addresses random no parking
+-get the most efficient path algorithm
+-final
