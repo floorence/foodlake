@@ -1,1 +1,24 @@
+Overview
+  When the driver enters in the addresses and names on their list of people to deliver to, the app will tell them which parking lot to go to in what order 
+  on the most time-efficient path. At each parking lot, the app will tell the driver which dorms they should go to and which meals they should bring, also
+  on the most time-efficient path.
+
+
+System Requirements
+  IPhone, WiFi, GPS, the newest version pog
+
+
+Input
+  The driver will have to input the addresses and names of the people they’re delivering to.
+
+
+The mysterious 4th section that I don't know the name of
+
+  The app uses Google maps to tell the driver how to get to the parking lots of the dorm buildings. 
+
+  When the app tells the driver to go to a certain address, it will also provide a link to Google Maps navigating to that address. The app also provides
+  the driver with the most efficient route to the addresses. 
+
+  Once the driver gets to the dorm building parking lot, the app tells them how much food to bring, which meals to bring, which dorms to deliver the food,
+  and what order they deliver the food in. The app tells the driver how to get to each dorm using Google maps. 
 
